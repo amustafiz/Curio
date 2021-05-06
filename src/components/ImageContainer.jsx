@@ -57,7 +57,7 @@ const ImageContainer = (props) => {
   }, delay);
   return (
     <>
-    <NavBar />
+    {/* <NavBar /> */}
       <div>
         <Text align='center' mt='40px' color='black'>Title</Text>
       </div>

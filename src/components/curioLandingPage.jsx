@@ -45,8 +45,8 @@ const LandingPage = () => {
   };
   return (
     <div>
-
-        <NavBar />
+{/* 
+        <NavBar /> */}
 
       <Flex justifyContent="center" h='100vh' backgroundImage='url(https://images.metmuseum.org/CRDImages/as/original/DP251139.jpg)'>
         <VStack margin='auto' spacing={1} direction="row" align="center" padding="4">

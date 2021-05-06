@@ -97,7 +97,7 @@ const LogIn = () => {
   return (
     <>
       <LightMode>
-        <NavBar />
+        {/* <NavBar /> */}
         <Flex justifyContent="center" h='100vh' backgroundImage='url(https://images.metmuseum.org/CRDImages/as/original/DP251139.jpg)'>
           <Box>
             {/* <Box
